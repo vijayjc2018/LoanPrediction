@@ -1,5 +1,6 @@
 # LoanPrediction
  caculating the prediction accuracy for a Loan dataset
+
 Dataset taken from Analytics Vidhya, as part of contest and practicing problem. Shared the link below, for reference.
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
 
@@ -34,3 +35,7 @@ Property_Area	     Urban/ Semi Urban/ Rural
 
 Loan_Status	       (Target) Loan approved (Y/N)
 
+
+Dataset is shared in https://github.com/vijayjc2018/LoanPrediction/blob/master/Dataset/train_ctrUa4K.csv
+
+Pyhton code is shared in https://github.com/vijayjc2018/LoanPrediction/blob/master/PythonCodeForPrediction/Loan_Prediction.ipynb
