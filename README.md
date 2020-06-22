@@ -9,11 +9,8 @@ Train file: CSV containing the customers for whom loan eligibility is known as '
 Variable	          Description
 
 Loan_ID	           Unique Loan ID
-
 Gender	            Male/ Female
-
 Married	           Applicant married (Y/N)
-
 Dependents	        Number of dependents
 Education	         Applicant Education (Graduate/ Under Graduate)
 Self_Employed	     Self employed (Y/N)
